@@ -7,6 +7,8 @@
 
 > **A Next-Generation Logistics Control Tower that combines Real-Time 3D Visualization, Predictive Machine Learning, and Generative AI to optimize global supply chains.**
 
+📊 Dataset: https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
+
 ## 📸 Application Gallery
 *(Real-time screenshots of the Nexus System)*
 
