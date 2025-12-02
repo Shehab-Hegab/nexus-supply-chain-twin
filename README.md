@@ -12,7 +12,6 @@
 ## 📸 Application Gallery
 *(Real-time screenshots of the Nexus System)*
 
-![Dashboard Demo](dashboard_demo.png)
 <img width="1862" height="992" alt="Main Dashboard View" src="https://github.com/user-attachments/assets/99aedacd-f1b6-4d12-abce-797e46230b9a" />
 <img width="1856" height="992" alt="3D Map Visualization" src="https://github.com/user-attachments/assets/0b679701-f6a2-4457-a75b-56baaf372c4b" />
 <img width="1852" height="993" alt="Predictive Analytics" src="https://github.com/user-attachments/assets/ad5902bc-33b5-447a-8d30-e90e11a84aca" />
