@@ -10,6 +10,20 @@
 ![Dashboard Demo](dashboard_demo.png)
 *(Replace this image with your actual screenshot)*
 
+<img width="1862" height="992" alt="image" src="https://github.com/user-attachments/assets/99aedacd-f1b6-4d12-abce-797e46230b9a" />
+<img width="1856" height="992" alt="image" src="https://github.com/user-attachments/assets/0b679701-f6a2-4457-a75b-56baaf372c4b" />
+<img width="1852" height="993" alt="image" src="https://github.com/user-attachments/assets/ad5902bc-33b5-447a-8d30-e90e11a84aca" />
+<img width="1847" height="642" alt="image" src="https://github.com/user-attachments/assets/3f3758fb-d82e-43af-872f-6720597fda8d" />
+<img width="908" height="642" alt="image" src="https://github.com/user-attachments/assets/72890975-78fb-49ea-b73b-ff610c115ea4" />
+<img width="1820" height="617" alt="image" src="https://github.com/user-attachments/assets/84041e28-40c6-4bcf-bf03-378416360220" />
+<img width="1523" height="811" alt="image" src="https://github.com/user-attachments/assets/99bbaaf6-c242-441b-aea7-0b44fc507b28" />
+<img width="1842" height="987" alt="image" src="https://github.com/user-attachments/assets/846aafaa-6748-48b9-be75-e8036b0da1be" />
+<img width="1840" height="991" alt="image" src="https://github.com/user-attachments/assets/602611da-d9f2-4b46-94de-af16b268872a" />
+<img width="1841" height="892" alt="image" src="https://github.com/user-attachments/assets/258da009-e100-4937-a471-c553bddb50f4" />
+
+
+
+
 ## 🚀 Business Value
 Modern supply chains are complex and fragile. **Nexus** solves three critical business problems:
 1.  **Visibility:** Visualizes the flow of goods globally using 3D geospatial arcs, identifying bottlenecks in seconds.
