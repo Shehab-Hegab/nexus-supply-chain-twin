@@ -1,0 +1,12 @@
+D:\Projects_Holiday\Chain\
+│── app.py                    <-- Your Main Dashboard
+│── style.css                 <-- (Optional) The CSS file
+│── DataCoSupplyChainDataset.csv  <-- Rename your CSV to this simple name
+│
+└── utils\                    <-- CREATE THIS NEW FOLDER
+    │── __init__.py           <-- Create an empty file with this name
+    │── ai_agent.py           <-- Paste the code below
+    │── maps.py               <-- Paste the code below
+    │── ml_logic.py           <-- Paste the code below
+
+
